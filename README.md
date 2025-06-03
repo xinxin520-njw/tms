@@ -42,6 +42,13 @@
 ![7](https://github.com/user-attachments/assets/035ff2c0-501c-4a3e-95be-ecebe87e96bb)
 ![12](https://github.com/user-attachments/assets/d114dde5-7c70-48d7-aee7-ace22a6931b4)
 
+# 联系方式
+
+如果您对系统有任何疑问或需要咨询，欢迎联系
+
+![WX20250108-164942@2x](https://github.com/user-attachments/assets/98e9b1f1-6696-4368-ae56-36af28fe510c)
+
+
 
 
 
