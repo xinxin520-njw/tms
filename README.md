@@ -6,5 +6,6 @@
 
 # 架构图
 ![功能架构](https://github.com/user-attachments/assets/be0e80ad-1ae7-4370-a233-420b952dbaa8)
+![技术架构](https://github.com/user-attachments/assets/684e2a06-c5c4-4e25-8522-6b265cd5eb1d)
 
 
